@@ -1,6 +1,6 @@
-Desafio: Preveja os resultados de um e-commerce utilizando o Power BI
+# Desafio: Preveja os resultados de um e-commerce utilizando o Power BI
 
-# Contexto
+## Contexto
 
 Neste desafio, você deverá construir um painel gerencial para um e-commerce que almeja estudar as suas vendas e assim, traçar a melhor estratégia para alavancar seus resultados.
 Você receberá duas bases de dados, uma com dados das vendas e outra com informações dos clientes. Com isso, crie duas páginas para que os analistas
