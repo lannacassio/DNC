@@ -9,10 +9,17 @@ O dashboard deve permitir a visualização das informações de forma clara e in
 
 ### Perguntas ao qual devemos tentar responder
 a. Qual time visitante com maior número de gols
+
 b. Qual time mandante com maior número de gols
+
 c. Qual o número de gols visitante e mandante ao decorrer do mês e a média dos gols.
+
 d. Uma tabela contendo todos os técnicos.
+
 e. Qual estado visitante com maior número de gols
+
 f. Qual estado mandante com maior número de gols
+
 g. Qual os 5 maiores times mandantes com maior número de gols
+
 h. Qual os 5 maiores times visitantes com maior número de gols
